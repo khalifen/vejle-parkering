@@ -42,7 +42,7 @@ Dette projekt er tænkt som et **visualiseringsværktøj** og en **proof-of-conc
 ## 🌐 Datakilder
 
 - **Parkeringsdata**:  
-  [Vejle Kommune – Parkering (OpenData.dk)](https://www.opendata.dk/city-of-vejle/parkering)
+  [Vejle Kommune – Parkering (OpenData.dk)](https://www.opendata.dk/city-of-vejle/vejle-parkering) 
 
 - **Trafikdata**:  
   [Vejdirektoratet – Trafiktællinger (MÅS-TRA)](https://www.opendata.dk/vejdirektoratet/taellinger-nogletal-mastra)
@@ -69,3 +69,7 @@ Dette projekt er tænkt som et **visualiseringsværktøj** og en **proof-of-conc
 ## 🙋‍♀️ Vil du vide mere?
 
 Hvis du er interesseret i at høre mere om projektet, dataene eller hvordan det er bygget, er du meget velkommen til at tage kontakt.
+
+---
+
+![Kort over parkering i Vejle](Vejle_dash.PNG)
